@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/example/myapplication/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/myapplication/MainActivity.kt b/app/src/main/java/com/example/myapplication/MainActivity.kt
+--- a/app/src/main/java/com/example/myapplication/MainActivity.kt	(revision 6fe1cb640a7ae4cfd1fbb1b2aeea0b88c72f9bdd)
++++ b/app/src/main/java/com/example/myapplication/MainActivity.kt	(date 1652493816886)
+@@ -7,5 +7,6 @@
+     override fun onCreate(savedInstanceState: Bundle?) {
+         super.onCreate(savedInstanceState)
+         setContentView(R.layout.activity_main)
++        //
+     }
+ }
+\ No newline at end of file
